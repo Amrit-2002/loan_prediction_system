@@ -32,7 +32,7 @@ This is a simple graphical user interface (GUI) application built using Python's
    -Loan Amount\
    -Loan Amount Term (In months)\
    -Credit History (Enter '1' for Good and '0' for Not Good)\
-   -Property Area\
+   -Property Area (Enter '0' for Rural '1' for Urban '2' for Semiurban)\
 
    <img width="901" alt="loan status" src="https://github.com/Amrit-2002/loan/assets/92193846/8dfc9029-a3dd-4db6-946c-81f819e1af2a">
 

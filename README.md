@@ -15,3 +15,6 @@ This is a simple graphical user interface (GUI) application built using Python's
 
    ```bash
    git clone https://github.com/your-username/loan-status-prediction.git
+2. Install Dependencies:
+   ```bash
+   pip install pandas joblib

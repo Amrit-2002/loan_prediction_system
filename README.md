@@ -14,7 +14,7 @@ This is a simple graphical user interface (GUI) application built using Python's
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/loan-status-prediction.git
+   git clone https://github.com/Amrit-2002/loan_prediction_system.git
 2. Install Dependencies:
    ```bash
    pip install pandas joblib

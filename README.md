@@ -34,5 +34,4 @@ This is a simple graphical user interface (GUI) application built using Python's
    -Credit History (Enter '1' for Good and '0' for Not Good)\
    -Property Area (Enter '0' for Rural '1' for Urban '2' for Semiurban)\
 
-   <img width="901" alt="loan status" src="https://github.com/Amrit-2002/loan/assets/92193846/8dfc9029-a3dd-4db6-946c-81f819e1af2a">
-
+<img width="871" alt="loan status" src="https://github.com/Amrit-2002/loan_prediction_system/assets/92193846/c18c25ce-5e11-4f3e-b835-ab2e967822cd">

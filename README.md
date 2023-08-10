@@ -18,3 +18,18 @@ This is a simple graphical user interface (GUI) application built using Python's
 2. Install Dependencies:
    ```bash
    pip install pandas joblib
+3. Make sure you have a trained machine learning model saved as 'loan_status_predict' (using the joblib library) in the same directory as the application
+
+## Usage
+4. Enter the required values in each field:
+   Gender (1 for 'Male' 0 for 'Female')
+   Married (1 for 'Yes' 0 for 'No')
+   Number of Dependents
+   Education (1 for 'Educated' 0 for 'Uneducated')
+   Self-Employed (1 for 'Yes' 0 for 'No')
+   Applicant Income
+   Coapplicant Income
+   Loan Amount
+   Loan Amount Term (In months)
+   Credit History (Enter '1' for Good and '0' for Not Good)
+   Property Area

@@ -22,14 +22,14 @@ This is a simple graphical user interface (GUI) application built using Python's
 
 ## Usage
 4. Enter the required values in each field:\
-   Gender (1 for 'Male' 0 for 'Female')\
-   Married (1 for 'Yes' 0 for 'No')\
-   Number of Dependents
-   Education (1 for 'Educated' 0 for 'Uneducated')
-   Self-Employed (1 for 'Yes' 0 for 'No')
-   Applicant Income
-   Coapplicant Income
-   Loan Amount
-   Loan Amount Term (In months)
-   Credit History (Enter '1' for Good and '0' for Not Good)
-   Property Area
+   -Gender (1 for 'Male' 0 for 'Female')\
+   -Married (1 for 'Yes' 0 for 'No')\
+   -Number of Dependents\
+   -Education (1 for 'Educated' 0 for 'Uneducated')\
+   -Self-Employed (1 for 'Yes' 0 for 'No')\
+   -Applicant Income\
+   -Coapplicant Income\
+   -Loan Amount\
+   -Loan Amount Term (In months)\
+   -Credit History (Enter '1' for Good and '0' for Not Good)\
+   -Property Area\

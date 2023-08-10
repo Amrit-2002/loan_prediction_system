@@ -1,5 +1,5 @@
-# loan
-# Loan Status Prediction Using Machine Learning
+
+### Loan Status Prediction Using Machine Learning
 
 This is a simple graphical user interface (GUI) application built using Python's Tkinter library to predict loan approval status based on user-provided information. The prediction is made using a pre-trained machine learning model.
 

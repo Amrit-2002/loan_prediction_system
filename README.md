@@ -22,16 +22,16 @@ This is a simple graphical user interface (GUI) application built using Python's
 
 ## Usage
 4. Enter the required values in each field:\
-   -Gender (1 for 'Male' 0 for 'Female')\
-   -Married (1 for 'Yes' 0 for 'No')\
-   -Number of Dependents\
-   -Education (1 for 'Educated' 0 for 'Uneducated')\
-   -Self-Employed (1 for 'Yes' 0 for 'No')\
-   -Applicant Income\
-   -Coapplicant Income\
-   -Loan Amount\
-   -Loan Amount Term (In months)\
-   -Credit History (Enter '1' for Good and '0' for Not Good)\
-   -Property Area (Enter '0' for Rural '1' for Urban '2' for Semiurban)\
+   - Gender (1 for 'Male' 0 for 'Female')\
+   - Married (1 for 'Yes' 0 for 'No')\
+   - Number of Dependents\
+   - Education (1 for 'Educated' 0 for 'Uneducated')\
+   - Self-Employed (1 for 'Yes' 0 for 'No')\
+   - Applicant Income\
+   - Coapplicant Income\
+   - Loan Amount\
+   - Loan Amount Term (In months)\
+   - Credit History (Enter '1' for Good and '0' for Not Good)\
+   - Property Area (Enter '0' for Rural '1' for Urban '2' for Semiurban)\
 
 <img width="871" alt="loan status" src="https://github.com/Amrit-2002/loan_prediction_system/assets/92193846/c18c25ce-5e11-4f3e-b835-ab2e967822cd">
